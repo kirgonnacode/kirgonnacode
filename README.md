@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mollitervivit
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in Python, SQL and JAVA
+- 🌱 I’m currently learning Django and Flask
