@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mollitervivit
-- 👀 I’m interested in Python, SQL and JAVA
-- 🌱 I’m currently learning Django and Flask
+- 👋 Hi, I’m @kirgonnacode
+- 👀 I’m interested in Python, SQL, Django
+- 🌱 I’m currently learning Flask
